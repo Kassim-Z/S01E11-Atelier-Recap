@@ -4,7 +4,7 @@
 ---------------------------------------
 *Developpeur web junior, en formation "Developpement WEb et Accessibilite"*
 
-[Accueil](/README.md) - [Projets](/Projets.md) - [Cv](/Cv) - [Contact](/Contact)
+[Accueil](/README.md) - [Projets](/Projets.md) - [Cv](/Cv.md) - [Contact](/Contact.md)
 
 
 ## Presentation
@@ -20,4 +20,4 @@ Mauris volutpat ullamcorper purus eget blandit. Donec nisi nunc, luctus ut solli
 
 ------------------------------------------
 
- ©2023 - ZITOUMBI Kassim - [Me Contacter](/Me_Contacter)
+ ©2023 - ZITOUMBI Kassim - [Me Contacter](/Contact.md)
